@@ -2,7 +2,7 @@
   "name": "medication-delivery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sarah-specialist.github.io/medication-delivery",
+  "homepage": "https://sarah-specialist.github.io/medication-order/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
