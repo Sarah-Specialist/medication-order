@@ -1,4 +1,4 @@
-# medication-order
+# Medication Delivery Order System
 
 ## Table of contents
 * Introduction
@@ -22,7 +22,7 @@ This is an individual project that I completed on the side. I created a medicati
 * GitHub
 
 ## Illustrations
-![](https://github.com/Sarah-Specialist/my-official-website/blob/16900796fb1a1d808c2914581f93c82cc8bf658c/website.jpg)
+![](https://github.com/Sarah-Specialist/medication-order/blob/0add5c481a422209a1617b2c7f1dcbfc3171a3f6/medication-delivery/src/image.jpg)
 
 ## Getting Started
 
