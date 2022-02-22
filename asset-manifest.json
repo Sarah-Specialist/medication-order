@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/medication-delivery/static/css/main.bc1cf80d.css",
+    "main.css": "/medication-delivery/static/css/main.c9a3e686.css",
     "main.js": "/medication-delivery/static/js/main.1ccb6d3f.js",
     "static/js/787.856eb3f4.chunk.js": "/medication-delivery/static/js/787.856eb3f4.chunk.js",
     "static/media/logo.jpg": "/medication-delivery/static/media/logo.b028071c5eea27ebc81c.jpg",
     "index.html": "/medication-delivery/index.html",
-    "main.bc1cf80d.css.map": "/medication-delivery/static/css/main.bc1cf80d.css.map",
+    "main.c9a3e686.css.map": "/medication-delivery/static/css/main.c9a3e686.css.map",
     "main.1ccb6d3f.js.map": "/medication-delivery/static/js/main.1ccb6d3f.js.map",
     "787.856eb3f4.chunk.js.map": "/medication-delivery/static/js/787.856eb3f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc1cf80d.css",
+    "static/css/main.c9a3e686.css",
     "static/js/main.1ccb6d3f.js"
   ]
 }
