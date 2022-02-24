@@ -6,7 +6,7 @@ export default function OrderedMed(props) {
     const {med} = props;
     return(
         <>
-        <h2>Order List</h2>
+        <h2 className="heading">Order List</h2>
         <table>
         <tbody>
           <tr>

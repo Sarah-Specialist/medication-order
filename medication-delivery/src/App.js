@@ -35,7 +35,7 @@ function App() {
         </span>
         <span className="login">Log In</span><br />
       </div>
-      <h1>Medication Delivery App</h1>
+      <h1 className="heading">Medication Delivery App</h1>
       <div className="Form">
           <SelectMedication data={medicationList} addMed={addMed} />
       </div>
