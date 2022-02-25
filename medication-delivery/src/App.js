@@ -33,7 +33,6 @@ function App() {
         <span className="logo">
           <img src={logo} alt="logo" height={40} width={140} />
         </span>
-        <span className="login">Log In</span><br />
       </div>
       <h1 className="heading">Medication Delivery App</h1>
       <div className="Form">

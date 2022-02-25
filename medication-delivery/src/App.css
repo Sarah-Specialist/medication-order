@@ -15,11 +15,6 @@
   float: left;
 }
 
-.login {
-  float: right;
-  padding: 10px;
-}
-
 .Form input,
 .Form select {
   padding: 5px;
